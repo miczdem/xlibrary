@@ -45,7 +45,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Mic.TestLibrary.Core.Interfaces\Mic.XLibrary.Core.Interfaces.csproj">
+    <ProjectReference Include="..\Mic.XLibrary.Core.Interfaces\Mic.XLibrary.Core.Interfaces.csproj">
       <Project>{029067C9-F6EA-4E94-B65C-8FA4D5D85E04}</Project>
       <Name>Mic.XLibrary.Core.Interfaces</Name>
     </ProjectReference>
