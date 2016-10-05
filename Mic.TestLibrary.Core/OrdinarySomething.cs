@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Mic.TestLibrary.Core.Interfaces;
+﻿using System.Diagnostics;
+using Mic.XLibrary.Core.Interfaces;
 
-namespace Mic.TestLibrary.Core
+namespace Mic.XLibrary.Core
 {
     public class OrdinarySomething:ISomething
 

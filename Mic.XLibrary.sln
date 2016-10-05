@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mic.TestLibrary.Core", "Mic.TestLibrary.Core\Mic.TestLibrary.Core.csproj", "{B84A28EF-2FE2-4EC1-AC03-FEE8BD77CB12}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mic.XLibrary.Core", "Mic.TestLibrary.Core\Mic.XLibrary.Core.csproj", "{B84A28EF-2FE2-4EC1-AC03-FEE8BD77CB12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mic.TestLibrary.Core.Interfaces", "Mic.TestLibrary.Core.Interfaces\Mic.TestLibrary.Core.Interfaces.csproj", "{029067C9-F6EA-4E94-B65C-8FA4D5D85E04}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mic.XLibrary.Core.Interfaces", "Mic.TestLibrary.Core.Interfaces\Mic.XLibrary.Core.Interfaces.csproj", "{029067C9-F6EA-4E94-B65C-8FA4D5D85E04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

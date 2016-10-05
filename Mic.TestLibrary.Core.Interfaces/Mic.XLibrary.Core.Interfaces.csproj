@@ -7,8 +7,8 @@
     <ProjectGuid>{029067C9-F6EA-4E94-B65C-8FA4D5D85E04}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Mic.TestLibrary.Core.Interfaces</RootNamespace>
-    <AssemblyName>Mic.TestLibrary.Core.Interfaces</AssemblyName>
+    <RootNamespace>Mic.XLibrary.Core.Interfaces</RootNamespace>
+    <AssemblyName>Mic.XLibrary.Core.Interfaces</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />

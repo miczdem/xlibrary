@@ -7,8 +7,8 @@
     <ProjectGuid>{B84A28EF-2FE2-4EC1-AC03-FEE8BD77CB12}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Mic.TestLibrary.Core</RootNamespace>
-    <AssemblyName>Mic.TestLibrary.Core</AssemblyName>
+    <RootNamespace>Mic.XLibrary.Core</RootNamespace>
+    <AssemblyName>Mic.XLibrary.Core</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -45,9 +45,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Mic.TestLibrary.Core.Interfaces\Mic.TestLibrary.Core.Interfaces.csproj">
+    <ProjectReference Include="..\Mic.TestLibrary.Core.Interfaces\Mic.XLibrary.Core.Interfaces.csproj">
       <Project>{029067C9-F6EA-4E94-B65C-8FA4D5D85E04}</Project>
-      <Name>Mic.TestLibrary.Core.Interfaces</Name>
+      <Name>Mic.XLibrary.Core.Interfaces</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
