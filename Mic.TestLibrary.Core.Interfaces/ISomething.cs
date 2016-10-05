@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Mic.TestLibrary.Core
+namespace Mic.TestLibrary.Core.Interfaces
 {
-    public class Class1
+    public interface ISomething
     {
+        void SomeMethod();
     }
 }
