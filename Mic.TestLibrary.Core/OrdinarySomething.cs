@@ -13,7 +13,7 @@ namespace Mic.TestLibrary.Core
     {
         public void SomeMethod()
         {
-            Debug.WriteLine("Something");
+            Debug.WriteLine("Some");
         }
     }
 }
