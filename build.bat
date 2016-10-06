@@ -14,5 +14,5 @@ REM Build
 
 REM Package
 mkdir Build
-call %nuget% pack "Mic.XLibrary.Core.Interfaces\Mic.XLibrary.Core.Interfaces.csproj" -symbols -o Build -p Configuration=%config% %version%
+call %nuget% pack -IncludeReferencedProjects "Mic.XLibrary.Core.Interfaces\Mic.XLibrary.Core.Interfaces.csproj" -symbols -o Build -p Configuration=%config% %version%
 call %nuget% pack -IncludeReferencedProjects "Mic.XLibrary.Core\Mic.XLibrary.Core.csproj" -symbols -o Build -p Configuration=%config% %version%
