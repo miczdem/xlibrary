@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Mic.TestLibrary.Core.Interfaces")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Mic.TestLibrary.Core.Interfaces")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Mic")]
 [assembly: AssemblyProduct("Mic.TestLibrary.Core.Interfaces")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
